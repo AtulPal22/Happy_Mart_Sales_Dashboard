@@ -1,6 +1,7 @@
 # Happy Mart Sales-Dashboard
 
-### Dashboard Link: 
+### Dashboard Link:  
+### Dashboard PDF Link: [HappyMartSalesDashboard.pdf](https://github.com/adorable20/Happy_Mart_Sales_Dashboard/files/14236378/HappyMartSalesDashboard.pdf)
 
 ## Problem Statement
 
