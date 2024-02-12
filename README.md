@@ -1,10 +1,10 @@
 # Happy Mart Sales-Dashboard
 
-### Dashboard Link: https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link: 
 
 ## Problem Statement
 
-There is a shop whose name is Happy Mart that wants us to help them create an interactive Dashboard so, they can easily track and analyze their online sales for the year 2018. This dashboard helps them understand their customers better. It helps the shop know which mode of payment is preferably used by their customers. They also know how much profit and loss they have in 2018 and other information. Thus, by using this dashboard they have identified or able to track their online sales and make good decisions for their better growth.
+There is a shop whose name is Happy Mart that wants us to help them create an interactive Dashboard so, they can easily track and analyze their online sales for the year 2018. This dashboard helps them understand their customers better. It helps the shop know which mode of payment is preferably used by their customers. They also know how much profit and loss they have in 2018 and other information. Thus, by using this dashboard they have identified or can track their online sales and make good decisions for their better growth.
 
 
 ### Steps followed 
@@ -15,7 +15,7 @@ There is a shop whose name is Happy Mart that wants us to help them create an in
 - Step 4: Goes to Model View to establish the connections or relationship between the datasets based on common columns (attributes) for creating a report based on them.
 - Step 5: Added Gradient Background to the dashboard & created a Shop name Heading (Happy Mart Sales Dashboard) by using Text Box.
 - Step 6: I've created four measures i.e. Total Amount, Total AOV(Average Order Value), Total Profit, and Total Quantity.
-- Step 7 : Measures:
+- Step 7: Measures:
         
         Total Amount:- 
         Total Amount = SUM(Details[Amount])
@@ -62,4 +62,29 @@ Snap of Cards used in Dashboard,
 ![TotalQtycard](https://github.com/adorable20/Happy_Mart_Sales_Dashboard/assets/87119559/4f7911ad-84a5-41b6-b0d9-b77ee11e118e)
 
 - Total AOV
- ![TotalAOVcard](https://github.com/adorable20/Happy_Mart_Sales_Dashboard/assets/87119559/ab8056d2-e1d7-41e7-a240-bfd09ee1caf3)   
+ 
+ ![TotalAOVcard](https://github.com/adorable20/Happy_Mart_Sales_Dashboard/assets/87119559/ab8056d2-e1d7-41e7-a240-bfd09ee1caf3)
+
+# Dashboard Snapshot (Power BI DESKTOP)
+
+ ![HappyMartSalesDashboardSS](https://github.com/adorable20/Happy_Mart_Sales_Dashboard/assets/87119559/1b432249-467f-4fd5-a6ed-195ecc4c0083)
+
+
+# Insights
+
+A single-page report was created on Power BI Desktop.
+
+The following inferences can be drawn from the dashboard;
+
+- Maharashtra is the leading state that has the highest sales in a year.  
+
+- The Quantity of the Clothing category sold the most among all states. So, to increase sales for other Categories also they can give discounts and offers to their customers in the form of redeem coupons.  
+
+- There is a loss in May, July, September, and December of the year 2018.  
+
+- Most of the payment is done by COD (Cash On Delivery) mode of payment. So, to increase the other modes they need to apply offers while paying using a debit, or credit card.  
+
+- Printers were sold among all other products in Quarter 1, Tables were sold among all other products in Quarter 2, Bookcases were sold among all other products in Quarter 3 and Again Printers were on top in last Quarter.  
+
+- Overall, to increase sales they need to check their product quality regularly and provide offers and discounts in each category in each state.
+
